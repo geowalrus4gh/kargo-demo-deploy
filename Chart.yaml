@@ -9,3 +9,4 @@ dependencies:
   repository: oci://registry-1.docker.io/geowalrus
   version: 1.0.0-1701981295
   condition: kargo-demo-app-charts.enabled
+
