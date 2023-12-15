@@ -6,7 +6,9 @@ globals:
   kargo-demo-app-charts:
     enabled: true
 
-    
 kargo-demo-app-charts:
   image:
     tag: "0.1.14"
+kargo-show-app-charts:
+  image:
+    tag: "0.1.0"
