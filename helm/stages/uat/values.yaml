@@ -11,4 +11,4 @@ kargo-demo-app-charts:
     tag: "0.1.14"
 kargo-show-app-charts:
   image:
-    tag: "0.1.0"
+    tag: "0.0.1"
