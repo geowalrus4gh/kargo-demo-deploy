@@ -9,8 +9,8 @@ globals:
 kargo-demo-app-charts:
   image:
     tag: "0.1.18"
-  replicaCount: 2
+  replicaCount: 1
 kargo-show-app-charts:
   image:
     tag: "0.0.2"
-  replicaCount: 2
+  replicaCount: 1
