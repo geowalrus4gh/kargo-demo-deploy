@@ -13,10 +13,10 @@ kargo-demo-app-charts:
   resources: 
     limits:
       cpu: 200m
-      memory: 256Mi
+      memory: 512Mi
     requests:
       cpu: 200m
-      memory: 256Mi
+      memory: 512Mi
 kargo-show-app-charts:
   image:
     tag: "0.0.3"
@@ -24,7 +24,7 @@ kargo-show-app-charts:
   resources: 
     limits:
       cpu: 200m
-      memory: 256Mi
+      memory: 512Mi
     requests:
       cpu: 200m
-      memory: 256Mi
+      memory: 512Mi
