@@ -12,19 +12,19 @@ kargo-demo-app-charts:
   replicaCount: 1
   resources: 
     limits:
-      cpu: 200m
-      memory: 512Mi
+      cpu: 400m
+      memory: 128Mi
     requests:
-      cpu: 200m
-      memory: 512Mi
+      cpu: 400m
+      memory: 128Mi
 kargo-show-app-charts:
   image:
     tag: "0.0.3"
   replicaCount: 1
   resources: 
     limits:
-      cpu: 200m
-      memory: 512Mi
+      cpu: 400m
+      memory: 128Mi
     requests:
-      cpu: 200m
-      memory: 512Mi
+      cpu: 400m
+      memory: 128Mi
