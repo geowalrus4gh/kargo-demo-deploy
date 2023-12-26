@@ -12,10 +12,10 @@ kargo-demo-app-charts:
   replicaCount: 1
   resources: 
     requests:
-      memory: 256Mi
+      memory: 128Mi
 
 kargo-show-app-charts:
   replicaCount: 1
   resources: 
     requests:
-      memory: 256Mi
+      memory: 128Mi
