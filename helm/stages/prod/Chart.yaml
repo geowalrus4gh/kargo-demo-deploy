@@ -7,10 +7,10 @@ appVersion: 1.0.0
 dependencies:
 - name: kargo-demo-app-charts
   repository: oci://docker.io/geowalrus
-  version: 0.1.14
+  version: 0.1.21
   condition: kargo-demo-app-charts.enabled
 - name: kargo-show-app-charts
   repository: oci://docker.io/geowalrus
-  version: 0.0.1
+  version: 0.1.1
   condition: kargo-show-app-charts.enabled
 
