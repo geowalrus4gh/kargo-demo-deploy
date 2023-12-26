@@ -1,5 +1,5 @@
 kargo-demo-app-charts:
-  replicaCount: 3
+  replicaCount: 0
 
 kargo-show-app-charts:
-  replicaCount: 3
+  replicaCount: 0
