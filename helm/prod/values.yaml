@@ -9,11 +9,13 @@ globals:
     enabled: true 
 
 kargo-demo-app-charts:
+  replicaCount: 3
   resources: 
     requests:
       memory: 256Mi
 
 kargo-show-app-charts:
+  replicaCount: 3
   resources: 
     requests:
       memory: 256Mi
