@@ -11,5 +11,5 @@ dependencies:
   condition: kargo-demo-app-charts.enabled
 - name: kargo-show-app-charts
   repository: oci://docker.io/geowalrus
-  version: 0.1.2
+  version: 0.1.3
   condition: kargo-show-app-charts.enabled
