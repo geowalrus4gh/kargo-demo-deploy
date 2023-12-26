@@ -1,0 +1,5 @@
+kargo-demo-app-charts:
+  replicaCount: 1
+
+kargo-show-app-charts:
+  replicaCount: 1
