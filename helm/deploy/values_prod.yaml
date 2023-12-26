@@ -1,0 +1,15 @@
+# Default values for sprout-app.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+
+globals:
+  kargo-demo-app-charts:
+    enabled: true
+  kargo-show-app-charts:
+    enabled: true 
+
+kargo-demo-app-charts:
+  replicaCount: 3
+
+kargo-show-app-charts:
+  replicaCount: 3

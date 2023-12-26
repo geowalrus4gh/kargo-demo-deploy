@@ -5,15 +5,11 @@
 globals:
   kargo-demo-app-charts:
     enabled: true
+  kargo-show-app-charts:
+    enabled: true 
 
 kargo-demo-app-charts:
   replicaCount: 1
-  resources: 
-    requests:
-      memory: 128Mi
 
 kargo-show-app-charts:
   replicaCount: 1
-  resources: 
-    requests:
-      memory: 128Mi
