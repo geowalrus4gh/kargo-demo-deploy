@@ -11,9 +11,9 @@ globals:
 kargo-demo-app-charts:
   resources: 
     requests:
-      memory: 128Mi
+      memory: 256Mi
 
 kargo-show-app-charts:
   resources: 
     requests:
-      memory: 128Mi
+      memory: 256Mi
