@@ -18,7 +18,7 @@ kargo-demo-app-charts:
 
 kargo-show-app-charts:
   image:
-    tag: 0.1.5
+    tag: 0.1.6
   replicaCount: 1
   resources: 
     requests:
