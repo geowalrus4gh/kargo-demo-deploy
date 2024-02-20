@@ -10,7 +10,7 @@ globals:
 
 kargo-demo-app-charts:
   image:
-    tag: 0.1.29
+    tag: 0.1.30
   replicaCount: 1
   resources: 
     requests:
